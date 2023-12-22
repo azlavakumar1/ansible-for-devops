@@ -1,4 +1,4 @@
-# tags added as 1.2
+# tags added as 1.2 & 1.1
 
 # Ansible for DevOps Examples
 
